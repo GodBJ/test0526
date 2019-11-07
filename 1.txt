@@ -4,3 +4,4 @@ this is second conmmit by dev`
  this is a  mistake
  this is a  mistake ·
  this is a test to merge dev
+this test stash apply
